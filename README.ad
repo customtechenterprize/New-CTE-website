@@ -1,0 +1,27 @@
+# Readme
+
+## What is this file going to be about?
+
+* Explain what this repo is about
+* Try to incorporate documentation here and the .
+* Being used to LATER either transfer the content to the main branch or merge it with it.
+
+
+## What is this repo about?
+
+This is going to be our new website we are planning to modify into a productive state.
+So far we have collected the following issues and need to address them:
+
+* Can we shorten the text?
+** Customers don't always want to read a wall of text 
+** We can use further leading websites in order to satisfy more technically inclined and curious clientele
+* Can the code be refactored into their own files for clarity?
+** The HTML/JS mixture is very confusing and needs to be divided
+* Does every created function or sequence of code need a comment to tell what it does and/or what it can do better?
+** This needs to be clarified, 
+** Is the library we are using deprecated and do we need to use an improved one? 
+
+### What is the current to do?
+* [ ] is the old repo forked/moved over to this one?
+* [ ] is the list providing a good enough basis to start working on it?
+** [ ] if not, what is missing?
