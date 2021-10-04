@@ -25,3 +25,62 @@ So far we have collected the following issues and need to address them:
 * [ ] is the old repo forked/moved over to this one?
 * [ ] is the list providing a good enough basis to start working on it?
 ** [ ] if not, what is missing?
+
+.Legends
+****
+From this point on, if I use `this format`, I am trying to modify the text. 
+
+Later notes exist if I have questions that need to be clarified. 
+****
+index.html
+-----------
+### Text content
+
+.Who We Are
+
+Products
+
+* Are we selling products and doing repairs? If yes, then it can stay like that
+
+Business Networking, Decentralized Application & Social Networking Service Solutions
+
+* CTE helps you to build your business infrastructure with DApps. `Can we say blockchain technology?`
+
+
+If you require a way to conduct your company with freedom of speech & free from censorship we'll help you to achieve that goal. Like most people that are aiming for that goal, we'll help you to move away from `slow, monolithic and centralized corportations that you can trust not to trust towards` decentralized autonomous organization (DAO) and decentralized computing. `We can help you decentralize and take back control of social media, cloud storage and website hosting through battle tested alternatives`
+
+ * 3D CAD Design/3D printing & Fabrication:
+
+`Streamline your CAD, CAM and CAE workflow through a single data-driven platform through the routine of continous integration. Prevent and uncover costly flaws before production and productive prototype stages`
+
+.I need clarification
+****
+*What actually are we trying to sell here?* 
+
+I am not sure what HSM exactly means for our organization. Is this just a filler?
+What are we offering that would make companies and individuals be glad to choose us?
+****
+
+
+### What we do
+---
+
+* Store page
+** Do we need to explain OpenBazaar more explicitly?
+** Do we still offer our services over this service?
+** If yes, we need to extrapolate on further leading
+links to give more insight.
+* News
+** Do we need this?
+* Payment processor
+** I know we are basically going to use bitwage/aragon to create our payment processor as it gives us the freedom to get paid by crypto and fiat money.
+** How far do we want to explain this to the customer?
+*** Do we want them to acknowledge the utility of using this service as well?
+* precious metal processor
+** same questions as for Payment processor
+
+
+### Anything else?
+---
+Do we need to talk about anything else?
+Also looking to think of making new websites, but I think there is already some vision that needs to become clearer. I would love to hear your thoughts about that.
